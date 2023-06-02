@@ -12,8 +12,6 @@ I have downloaded three files from Kaggle into the repo:
 
 If you want to re-run the analysis itself, just deploy Munich_Airbnb_analysis.ipynb in a jupyter notebook.
 
-In addition you will find a few .jpgs. They were saved during the deployment of the notebook above.
-
 ## Necessary libraries
 You will need the following (standard) libraries for python:
 ```
