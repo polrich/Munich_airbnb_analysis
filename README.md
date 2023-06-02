@@ -6,11 +6,13 @@ I will try to answer these questions by analysing the [AirBnB](https://www.kaggl
 
 ## Files in the repository and their usage
 I have downloaded three files from Kaggle into the repo:
-- calendar.csv: calender data for listings, like dates and prices 
-- listings.csv: summary on listings, like location, host infos, fees, amenities
-- reviews.csv: summy on reviews for the listings
+- **calendar.csv**: calender data for listings, like dates and prices 
+- **listings.csv**: summary on listings, like location, host infos, fees, amenities
+- **reviews.csv**: summy on reviews for the listings
 
-If you want to re-run the analysis itself, just deploy Munich_Airbnb_analysis.ipynb in a jupyter notebook.
+For a smaller file-size, the three files are zipped.
+
+If you want to re-run the analysis itself, just deploy **Munich_Airbnb_analysis.ipynb** in a jupyter notebook.
 
 ## Necessary libraries
 You will need the following (standard) libraries for python:
